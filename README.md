@@ -3,8 +3,22 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tthai-git&theme=default)](https://github.com/TTHai-Git)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tthai-git&show_icons=true&layout=compact)](https://github.com/TTHai-Git)
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px;">
+  <a href="https://github.com/TTHai-Git" title="Trịnh Thanh Hải">
+      <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=tthai-git&theme=radical&hide_border=false" />
+  </a>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <a href="https://github.com/TTHai-Git" title="Trịnh Thanh Hải">
+      <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tthai-git&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    </a>
+    <a href="https://github.com/TTHai-Git" title="Trịnh Thanh Hải">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tthai-git&theme=radical&hide_border=false&layout=compact" />
+    </a>
+  </div>
+</div>
 
 ---
 
@@ -63,12 +77,12 @@ Mình là developer full-stack, thích làm sản phẩm có trải nghiệm ng�
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-091E42?style=for-the-badge&logo=render&logoColor=white)
 ![VMware Workstation](https://img.shields.io/badge/VMware%20Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white)
-
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logo=pythonanywhere&logoColor=white)
 
 ### Integrations
 ![VNPAY Sandbox](https://img.shields.io/badge/VNPAY%20Sandbox-0A76DA?style=for-the-badge&logo=vnpay&logoColor=white)
 ![PayOS](https://img.shields.io/badge/PayOS-00AEEF?style=for-the-badge)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail Notifications](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Google Calendar](https://img.shields.io/badge/Google%20Calendar-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-0C0C0C?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -84,7 +98,14 @@ Mình là developer full-stack, thích làm sản phẩm có trải nghiệm ng�
 
 ## 🌟 Tools / Misc (badges nhỏ)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ---
 
