@@ -3,7 +3,6 @@
 
 ---
 
-[![Profile views](https://komarev.com/ghpvc/?username=tthai-git&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/TTHai-Git)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tthai-git&theme=default)](https://github.com/TTHai-Git)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tthai-git&show_icons=true&layout=compact)](https://github.com/TTHai-Git)
 
