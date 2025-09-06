@@ -8,7 +8,7 @@
 ---
 
 ## 🔭 Tóm tắt nhanh
-Mình là kỹ sư Công nghệ Thông tin, tốt nghiệp Đại học Mở TP. HCM (2021–2025), hướng phát triển chính là **web development** (full-stack). Mình thường xuyên làm dự án cá nhân liên quan đến e-commerce, quản lý nghiệp vụ và mobile apps; thành thạo trong việc xây dựng API. :contentReference[oaicite:0]{index=0}
+Mình là kỹ sư Công nghệ Thông tin, tốt nghiệp Đại học Mở TP. HCM (2021–2025), hướng phát triển chính là **web development** (full-stack). Mình thường xuyên làm dự án cá nhân liên quan đến e-commerce, quản lý nghiệp vụ và mobile apps; thành thạo trong việc xây dựng API.
 
 ---
 
@@ -88,24 +88,24 @@ Mình là developer full-stack, thích làm sản phẩm có trải nghiệm ng�
 ---
 
 ## 💼 Kinh nghiệm & Điểm mạnh
-- Xây dựng API RESTful, thiết kế database và tích hợp service bên thứ 3 (payment, file hosting, message, email, map). :contentReference[oaicite:11]{index=11}  
-- Triển khai môi trường dev bằng Docker; test API bằng Postman. :contentReference[oaicite:12]{index=12}  
-- Kiến thức mạng & hệ thống (VMware, Windows Server, Active Directory) — phù hợp cho vị trí IT Support/IT Help Desk/(DevOps) nếu có khả năng và khi cần.:contentReference[oaicite:13]{index=13}
+- Xây dựng API RESTful, thiết kế database và tích hợp service bên thứ 3 (payment, file hosting, message, email, map).
+- Triển khai môi trường dev bằng Docker; test API bằng Postman.
+- Kiến thức mạng & hệ thống (VMware, Windows Server, Active Directory) — phù hợp cho vị trí IT Support/IT Help Desk/(DevOps) nếu có khả năng và khi cần.
 
 ---
 
 ## 🎓 Học vấn
-**Cử nhân Công nghệ Thông tin** — Trường Đại học Mở TP.HCM (2021 — 2025). :contentReference[oaicite:14]{index=14}
+**Cử nhân Công nghệ Thông tin** — Trường Đại học Mở TP.HCM (2021 — 2025).
 
 ---
 
 ## 🗣 Ngôn ngữ
-- **Tiếng Anh:** B1. :contentReference[oaicite:15]{index=15}
+- **Tiếng Anh:** B1.
 
 ---
 
 ## ⚡ Thú vị & Ngoại khóa
-- Lắp ráp phần cứng, cài đặt phần mềm, xử lý sự cố mạng. (Thích học hỏi công nghệ mới và sẵn sàng làm việc nhóm). :contentReference[oaicite:20]{index=20}
+- Lắp ráp phần cứng, cài đặt phần mềm, xử lý sự cố mạng. (Thích học hỏi công nghệ mới và sẵn sàng làm việc nhóm).
 
 ---
 
