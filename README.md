@@ -1,4 +1,4 @@
-# Hi 👋, mình là Trịnh Thanh Hải
+# Xin chào 👋, mình là Trịnh Thanh Hải
 ### Web Developer (Frontend + Backend) • Full-stack enthusiast • HCMC, Vietnam
 
 ---
@@ -22,13 +22,13 @@
 
 ---
 
-## 🔭 Tóm tắt nhanh
+## 🔭 Sơ nét về bản thân
 Mình là kỹ sư Công nghệ Thông tin, tốt nghiệp Đại học Mở TP. HCM (2021–2025), hướng phát triển chính là **web development** (full-stack). Mình thường xuyên làm dự án cá nhân liên quan đến e-commerce, quản lý nghiệp vụ và mobile apps; thành thạo trong việc xây dựng API.
 
 ---
 
-## ✨ Một câu ngắn gọn
-Mình là developer full-stack, thích làm sản phẩm có trải nghiệm người dùng tốt, code và deploy phải chạy được và ổn định.
+## ✨ Mong muốn khi thực hiện dự án
+Mình là developer full-stack thế nên mình thích làm sản phẩm có trải nghiệm người dùng tốt, code và deploy phải chạy được và ổn định.
 
 ---
 
@@ -41,7 +41,7 @@ Mình là developer full-stack, thích làm sản phẩm có trải nghiệm ng�
 
 ## 🧰 Kỹ năng chính (badges)
 
-### Ngôn ngữ
+### Ngôn ngữ lập trình
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -110,7 +110,7 @@ Mình là developer full-stack, thích làm sản phẩm có trải nghiệm ng�
 ---
 
 ## 💼 Kinh nghiệm & Điểm mạnh
-- Xây dựng API RESTful, thiết kế database và tích hợp service bên thứ 3 (payment, file hosting, message, email, map).
+- Xây dựng API RESTful, thiết kế database và tích hợp service bên thứ 3 (payment, file hosting, message, email, map, ...).
 - Triển khai môi trường dev bằng Docker; test API bằng Postman.
 - Kiến thức mạng & hệ thống (VMware, Windows Server, Active Directory) — phù hợp cho vị trí IT Support/IT Help Desk/(DevOps) nếu có khả năng và khi cần.
 
