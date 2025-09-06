@@ -90,7 +90,7 @@ Mình là developer full-stack, thích làm sản phẩm có trải nghiệm ng�
 ## 💼 Kinh nghiệm & Điểm mạnh
 - Xây dựng API RESTful, thiết kế database và tích hợp service bên thứ 3 (payment, file hosting, message, email, map). :contentReference[oaicite:11]{index=11}  
 - Triển khai môi trường dev bằng Docker; test API bằng Postman. :contentReference[oaicite:12]{index=12}  
-- Kiến thức mạng & hệ thống (VMware, Windows Server, Active Directory) — phù hợp cho vị trí IT Support/IT Help Desk/(DevOps) nếu có khả năng và khi cần. :contentReference[oaicite:13]{index=13}
+- Kiến thức mạng & hệ thống (VMware, Windows Server, Active Directory) — phù hợp cho vị trí IT Support/IT Help Desk/(DevOps) nếu có khả năng và khi cần.:contentReference[oaicite:13]{index=13}
 
 ---
 
