@@ -8,14 +8,14 @@
 <br>
 <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px;">
   <a href="https://github.com/TTHai-Git" title="Trịnh Thanh Hải">
-      <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=TTHai-Git&theme=radical&hide_border=false" />
+      <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=tthai-git&theme=radical&hide_border=false" />
   </a>
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <a href="https://github.com/TTHai-Git" title="Trịnh Thanh Hải">
-      <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TTHai-Git&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+      <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tthai-git&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
     </a>
     <a href="https://github.com/TTHai-Git" title="Trịnh Thanh Hải">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTHai-Git&theme=radical&hide_border=false&layout=compact" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tthai-git&theme=radical&hide_border=false&layout=compact" />
     </a>
   </div>
 </div>
