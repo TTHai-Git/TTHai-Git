@@ -28,7 +28,7 @@ Mình là một cử nhân chuyên ngành công nghệ thông tin, tốt nghiệ
 ---
 
 ## ✨ Mong muốn khi thực hiện dự án
-Mình là developer full-stack thế nên mình thích làm sản phẩm có trải nghiệm người dùng tốt, code và deploy phải chạy được và ổn định.
+Mình có mong muốn trở thành một developer full-stack, thế nên mình thích làm sản phẩm có trải nghiệm người dùng tốt, code và deploy phải chạy được và ổn định.
 
 ---
 
