@@ -65,7 +65,6 @@ Mình là developer full-stack thế nên mình thích làm sản phẩm có tr�
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-0C0C0C?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ### DevOps & Tools
